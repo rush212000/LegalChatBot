@@ -1,0 +1,23 @@
+2024-02-06 14:40:13,437 - LegalContractBot - INFO - Welcome to the LegalContractBot! I can help you create legal contracts.
+2024-02-06 14:43:41,970 - LegalContractBot - INFO - Welcome to the LegalContractBot! I can help you create legal contracts.
+2024-02-06 14:47:05,985 - LegalContractBot - INFO - Welcome to the LegalContractBot! I can help you create legal contracts.
+2024-02-06 14:47:13,871 - LegalContractBot - INFO - Bot response: Welcome to LegalContractBot! Which type of contract would you like to create today?
+2024-02-06 14:47:19,560 - LegalContractBot - INFO - Bot response: You've chosen to create a [Contract Type]. Please confirm your details: ...
+2024-02-06 14:47:29,160 - LegalContractBot - INFO - Bot response: Details confirmed. Please provide any additional information needed to generate your contract.
+2024-02-06 14:51:49,984 - LegalContractBot - INFO - Starting the LegalContractBot service...
+2024-02-06 14:51:49,984 - LegalContractBot - INFO - Welcome to the LegalContractBot! I can help you create legal contracts.
+2024-02-06 14:52:20,830 - LegalContractBot - INFO - Dialogue manager processed input with response: Welcome to LegalContractBot! Which type of contract would you like to create today? and action: None
+2024-02-06 17:34:48,998 - LegalContractBot - INFO - Starting the LegalContractBot service...
+2024-02-06 17:34:57,067 - LegalContractBot - INFO - User input: nda argreement
+2024-02-06 17:34:57,067 - LegalContractBot - INFO - Dialogue manager response: Welcome to LegalContractBot! Which type of contract would you like to create today?
+2024-02-06 17:34:57,067 - LegalContractBot - INFO - Action to perform: None
+2024-02-06 17:35:06,314 - LegalContractBot - INFO - User input: make me an nda argreement
+2024-02-06 17:35:06,314 - LegalContractBot - INFO - Dialogue manager response: I'm sorry, I didn't understand which contract type you want. Can you specify the type of contract you need?
+2024-02-06 17:35:06,314 - LegalContractBot - INFO - Action to perform: None
+2024-02-06 22:53:49,904 - LegalContractBot - INFO - Starting the LegalContractBot service...
+2024-02-06 22:53:58,161 - LegalContractBot - INFO - User input: make me an nda contract
+2024-02-06 22:53:58,161 - LegalContractBot - INFO - Dialogue manager response: ('Welcome to LegalContractBot! Which type of contract would you like to create today?', None)
+2024-02-06 22:53:58,161 - LegalContractBot - INFO - Action to perform: None
+2024-02-06 22:54:09,233 - LegalContractBot - INFO - User input: nda agreement
+2024-02-06 22:54:09,234 - LegalContractBot - INFO - Dialogue manager response: ("You've chosen to create a nda agreement. Please confirm your details or provide more information:", None)
+2024-02-06 22:54:09,234 - LegalContractBot - INFO - Action to perform: None

@@ -1,0 +1,36 @@
+
+NON-DISCLOSURE AGREEMENT
+
+THIS AGREEMENT (the "Agreement") is entered into on this ____ day of __________, 20XX, by and between:
+
+[Disclosing Party Name], with its principal office located at [Address] (the "Disclosing Party"),
+
+-and-
+
+[Receiving Party Name], with its principal office located at [Address] (the "Receiving Party").
+
+WHEREAS, the Disclosing Party agrees to disclose, and the Receiving Party agrees to receive, confidential information under the terms and conditions described below.
+
+1. Definition of Confidential Information
+    a. For purposes of this Agreement, "Confidential Information" includes all information or material that has or could have commercial value or other utility in the business in which Disclosing Party is engaged.
+    b. Confidential Information does not include information that is: publicly known at the time of disclosure or subsequently becomes publicly known through no fault of the Receiving Party; discovered or created by the Receiving Party before disclosure by Disclosing Party; or learned by the Receiving Party through legitimate means other than from the Disclosing Party or Disclosing Party's representatives.
+
+2. Obligations of Receiving Party
+    a. Receiving Party shall keep and maintain the Confidential Information in strictest confidence for the sole and exclusive benefit of the Disclosing Party.
+    b. Receiving Party shall carefully restrict access to Confidential Information to employees, contractors, and third parties as is reasonably required and shall require those persons to sign nondisclosure restrictions at least as protective as those in this Agreement.
+
+3. Time Periods
+    a. The nondisclosure provisions of this Agreement shall survive the termination of this Agreement and Receiving Party's duty to hold Confidential Information in confidence shall remain in effect until the Confidential Information no longer qualifies as a trade secret or until Disclosing Party sends Receiving Party written notice releasing Receiving Party from this Agreement, whichever occurs first.
+
+4. Miscellaneous
+    a. This Agreement and each party's obligations shall be binding on the representatives, assigns, and successors of such party. Each party has signed this Agreement through its authorized representative.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+[Disclosing Party Name]                                [Receiving Party Name]
+
+By: _________________________                          By: _________________________
+
+Title: ______________________                          Title: ______________________
+
+Date: ______________________                           Date: ______________________

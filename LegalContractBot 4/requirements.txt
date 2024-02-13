@@ -1,0 +1,31 @@
+# Web framework for API or web app
+Flask==2.0.1
+FastAPI==0.103.0
+uvicorn==0.20.0  # ASGI server for FastAPI
+
+# Conversational AI and NLP
+nltk==3.8.1
+spacy==3.7.2
+
+
+# Template rendering for contracts
+Jinja2==3.1.3
+
+# Database for storing user inputs and contracts
+SQLAlchemy==2.0.25
+pymongo==3.12.0  # If using MongoDB
+
+# Data validation
+pydantic==1.10.12  # Especially useful with FastAPI for data validation
+
+# Testing
+pytest==6.2.4
+pytest-asyncio==0.20.3  # For testing async code, if using FastAPI
+
+# Utilities
+python-dotenv==0.21.0  # For managing environment variables
+
+# Logging
+loguru==0.5.3
+
+utils~=1.0.2

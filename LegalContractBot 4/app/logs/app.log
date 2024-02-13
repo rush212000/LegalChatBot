@@ -1,0 +1,556 @@
+2024-02-07 14:01:46,463 [INFO] main - main: Starting the LegalContractBot service...
+2024-02-07 14:02:03,361 [INFO] main - main: User input: make me an nda agreement
+2024-02-07 14:02:03,362 [INFO] main - main: Dialogue manager response: ('Welcome to LegalContractBot! Which type of contract would you like to create today?', None)
+2024-02-07 14:02:03,363 [INFO] main - main: Action to perform: None
+2024-02-07 15:06:23,764 [INFO] main - main: Starting the LegalContractBot service...
+2024-02-07 15:42:18,795 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 15:43:21,511 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 15:43:34,786 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 15:43:34,805 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-07 15:43:34,806 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-07 15:43:34,811 [INFO] _internal - _log:  * Restarting with stat
+2024-02-07 15:43:35,094 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 15:43:35,100 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-07 15:43:35,119 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-07 15:43:40,331 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 15:43:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-02-07 15:43:40,732 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 15:43:40] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-02-07 15:43:40,733 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 15:43:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-02-07 15:43:40,747 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 15:43:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-02-07 15:45:05,830 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/app/main.py', reloading
+2024-02-07 15:45:05,894 [INFO] _internal - _log:  * Restarting with stat
+2024-02-07 15:45:06,310 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 15:45:06,323 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-07 15:45:06,338 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-07 23:09:19,885 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:09:19,908 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-07 23:09:19,909 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-07 23:09:19,917 [INFO] _internal - _log:  * Restarting with stat
+2024-02-07 23:09:20,221 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:09:20,227 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-07 23:09:20,249 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-07 23:09:22,137 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:09:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-02-07 23:09:22,553 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:09:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-02-07 23:09:22,553 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:09:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-02-07 23:09:22,569 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:09:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-02-07 23:11:25,714 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:11:25,735 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-07 23:11:25,736 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-07 23:11:25,741 [INFO] _internal - _log:  * Restarting with stat
+2024-02-07 23:11:26,094 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:11:26,101 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-07 23:11:26,115 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-07 23:11:28,835 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:11:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-02-07 23:11:28,870 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:11:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-02-07 23:11:28,881 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:11:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-02-07 23:11:28,892 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:11:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-02-07 23:25:05,160 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:25:57,503 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:26:50,246 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:26:50,347 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-07 23:26:50,347 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-07 23:26:50,353 [INFO] _internal - _log:  * Restarting with stat
+2024-02-07 23:26:50,635 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:26:50,641 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-07 23:26:50,654 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-07 23:26:53,426 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:26:53] "GET / HTTP/1.1" 200 -
+2024-02-07 23:26:53,777 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:26:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2024-02-07 23:26:53,779 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:26:53] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2024-02-07 23:26:53,859 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:26:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-07 23:29:43,812 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:29:43,894 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-07 23:29:43,895 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-07 23:29:43,900 [INFO] _internal - _log:  * Restarting with stat
+2024-02-07 23:29:44,230 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-07 23:29:44,237 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-07 23:29:44,251 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-07 23:29:47,726 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:29:47] "GET / HTTP/1.1" 200 -
+2024-02-07 23:29:48,061 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:29:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-07 23:29:48,062 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:29:48] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-07 23:32:00,609 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:32:00] "GET / HTTP/1.1" 200 -
+2024-02-07 23:32:00,888 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:32:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-07 23:32:00,891 [INFO] _internal - _log: 127.0.0.1 - - [07/Feb/2024 23:32:00] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-08 16:34:06,022 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/app/config.py', reloading
+2024-02-08 16:34:06,138 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 16:34:06,699 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-08 16:34:06,713 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 16:34:06,739 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 16:35:46,589 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/app/config.py', reloading
+2024-02-08 16:35:46,653 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 16:35:47,714 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-08 16:35:47,730 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 16:35:47,752 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 16:36:05,941 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/app/config.py', reloading
+2024-02-08 16:36:06,002 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 16:36:06,371 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-08 16:36:06,380 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 16:36:06,393 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 16:40:57,759 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/app/main.py', reloading
+2024-02-08 16:40:57,833 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 16:40:58,370 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 16:40:58,384 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 16:40:58,397 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 16:45:39,664 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/contracts/generator.py', reloading
+2024-02-08 16:45:39,737 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 17:48:53,024 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 17:48:53,263 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.93:5001
+2024-02-08 17:48:53,263 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 17:48:53,265 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 17:48:54,078 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 17:48:54,087 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 17:48:54,116 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 17:48:55,727 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 17:48:55] "GET / HTTP/1.1" 200 -
+2024-02-08 17:48:56,116 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 17:48:56] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-08 17:48:56,119 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 17:48:56] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-08 17:53:35,668 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 17:53:35,823 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.93:5001
+2024-02-08 17:53:35,824 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 17:53:35,826 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 17:53:36,682 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 17:53:36,690 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 17:53:36,708 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 17:53:39,802 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 17:53:39] "GET / HTTP/1.1" 200 -
+2024-02-08 17:53:40,169 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 17:53:40] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-08 17:53:40,172 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 17:53:40] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-08 18:05:01,319 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 18:05:01,484 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.93:5001
+2024-02-08 18:05:01,485 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 18:05:01,487 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 18:05:02,343 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 18:05:02,351 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 18:05:02,367 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 18:05:04,827 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:05:04] "GET / HTTP/1.1" 200 -
+2024-02-08 18:05:05,184 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:05:05] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-08 18:05:05,186 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:05:05] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-08 18:09:11,280 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 18:09:11,452 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.93:5001
+2024-02-08 18:09:11,452 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 18:09:11,455 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 18:09:12,220 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 18:09:12,228 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 18:09:12,248 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 18:09:14,496 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:09:14] "GET / HTTP/1.1" 200 -
+2024-02-08 18:09:14,803 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:09:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-08 18:09:14,806 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:09:14] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-08 18:21:43,384 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 18:21:43,560 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.93:5001
+2024-02-08 18:21:43,560 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 18:21:43,563 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 18:21:44,208 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 18:21:44,215 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 18:21:44,230 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 18:21:46,485 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:21:46] "GET / HTTP/1.1" 200 -
+2024-02-08 18:21:46,796 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:21:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-08 18:21:46,798 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:21:46] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-08 18:33:43,971 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 18:33:44,197 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.93:5001
+2024-02-08 18:33:44,197 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 18:33:44,200 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 18:33:44,961 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 18:33:44,968 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 18:33:44,986 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 18:33:52,608 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:33:52] "GET / HTTP/1.1" 200 -
+2024-02-08 18:33:52,901 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:33:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-08 18:33:52,904 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 18:33:52] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-08 21:39:17,556 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/contracts/manager.py', reloading
+2024-02-08 21:39:17,749 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 21:39:18,740 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 21:39:18,751 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 21:39:18,768 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 21:56:11,034 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/contracts/generator.py', reloading
+2024-02-08 21:56:11,124 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 21:56:12,222 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 21:56:12,233 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 21:56:12,248 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 21:56:59,671 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/contracts/generator.py', reloading
+2024-02-08 21:56:59,776 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 21:57:00,503 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 21:57:00,510 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 21:57:00,523 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 21:57:21,711 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/contracts/generator.py', reloading
+2024-02-08 21:57:21,862 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 21:57:22,881 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 21:57:22,896 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 21:57:22,917 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 22:02:34,570 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/dialogues/context.py', reloading
+2024-02-08 22:02:34,676 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 22:02:35,652 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:02:35,665 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 22:02:35,678 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 22:05:45,296 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/dialogues/manager.py', reloading
+2024-02-08 22:05:45,415 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 22:05:46,380 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:05:46,392 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 22:05:46,405 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 22:06:07,613 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/dialogues/manager.py', reloading
+2024-02-08 22:06:07,723 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 22:06:08,511 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:06:08,519 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 22:06:08,531 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 22:07:00,695 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:07:00,742 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-08 22:07:00,742 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 22:07:00,744 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 22:07:01,495 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:07:01,501 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 22:07:01,517 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 22:07:03,740 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 22:07:03] "GET / HTTP/1.1" 200 -
+2024-02-08 22:07:04,167 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 22:07:04] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-08 22:53:26,797 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:53:26,925 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-08 22:53:26,926 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 22:53:26,930 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 22:53:27,540 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:53:27,547 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 22:53:27,565 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 22:53:50,991 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:53:51,028 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-08 22:53:51,028 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-08 22:53:51,029 [INFO] _internal - _log:  * Restarting with stat
+2024-02-08 22:53:51,667 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-08 22:53:51,674 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-08 22:53:51,685 [INFO] _internal - _log:  * Debugger PIN: 858-343-074
+2024-02-08 22:53:53,529 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 22:53:53] "GET / HTTP/1.1" 200 -
+2024-02-08 22:53:53,833 [INFO] _internal - _log: 127.0.0.1 - - [08/Feb/2024 22:53:53] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-11 23:03:21,218 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-11 23:03:21,274 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-11 23:03:21,274 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-11 23:03:21,276 [INFO] _internal - _log:  * Restarting with stat
+2024-02-11 23:03:22,004 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-11 23:03:22,014 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-11 23:03:22,051 [INFO] _internal - _log:  * Debugger PIN: 895-128-628
+2024-02-11 23:03:25,722 [INFO] _internal - _log: 127.0.0.1 - - [11/Feb/2024 23:03:25] "GET / HTTP/1.1" 200 -
+2024-02-11 23:03:26,086 [INFO] _internal - _log: 127.0.0.1 - - [11/Feb/2024 23:03:26] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-11 23:04:39,835 [INFO] _internal - _log:  * Detected change in '/Users/rushabhsharma/Desktop/Rushabh/universtiy /Year 3/final/LegalContractBot/app/main.py', reloading
+2024-02-11 23:04:39,975 [INFO] _internal - _log:  * Restarting with stat
+2024-02-11 23:04:41,314 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-11 23:04:41,332 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-11 23:04:41,361 [INFO] _internal - _log:  * Debugger PIN: 895-128-628
+2024-02-11 23:52:25,849 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-11 23:52:25,965 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-11 23:52:25,965 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-11 23:52:25,967 [INFO] _internal - _log:  * Restarting with stat
+2024-02-11 23:52:26,623 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-11 23:52:26,629 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-11 23:52:26,645 [INFO] _internal - _log:  * Debugger PIN: 895-128-628
+2024-02-11 23:52:31,554 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:52:31] "GET / HTTP/1.1" 200 -
+2024-02-11 23:52:31,945 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:52:31] "[33mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2024-02-11 23:52:31,947 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:52:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-11 23:52:31,955 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:52:31] "[33mGET /static/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-02-11 23:52:31,956 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:52:31] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-11 23:52:32,057 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:52:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-11 23:56:59,676 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-11 23:56:59,708 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-11 23:56:59,708 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-11 23:56:59,709 [INFO] _internal - _log:  * Restarting with stat
+2024-02-11 23:57:00,627 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-11 23:57:00,636 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-11 23:57:00,649 [INFO] _internal - _log:  * Debugger PIN: 895-128-628
+2024-02-11 23:57:02,331 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:57:02] "GET / HTTP/1.1" 200 -
+2024-02-11 23:57:02,370 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:57:02] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-11 23:57:02,376 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:57:02] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-11 23:59:20,472 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:59:20] "GET / HTTP/1.1" 200 -
+2024-02-11 23:59:20,507 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:59:20] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-11 23:59:20,516 [INFO] _internal - _log: 192.168.1.220 - - [11/Feb/2024 23:59:20] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-11 23:59:59,012 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-11 23:59:59,055 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-11 23:59:59,055 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-11 23:59:59,056 [INFO] _internal - _log:  * Restarting with stat
+2024-02-12 00:00:00,042 [INFO] main - <module>: Starting the LegalContractBot web service with AI capabilities...
+2024-02-12 00:00:00,073 [WARNING] _internal - _log:  * Debugger is active!
+2024-02-12 00:00:00,134 [INFO] _internal - _log:  * Debugger PIN: 895-128-628
+2024-02-12 00:00:01,862 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:00:01] "GET / HTTP/1.1" 200 -
+2024-02-12 00:00:01,901 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:00:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 00:00:01,908 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:00:01] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 00:02:15,731 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 00:02:15,760 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-12 00:02:15,761 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 00:02:17,401 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:02:17] "GET / HTTP/1.1" 200 -
+2024-02-12 00:02:17,443 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:02:17] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 00:02:17,450 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:02:17] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 00:08:33,935 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:08:33] "GET / HTTP/1.1" 200 -
+2024-02-12 00:08:34,031 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:08:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 00:08:34,044 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 00:08:34] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 10:56:48,215 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 10:56:48,222 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.71:5001
+2024-02-12 10:56:48,223 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 10:56:50,247 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:56:50] "GET / HTTP/1.1" 200 -
+2024-02-12 10:56:50,585 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:56:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 10:56:50,593 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:56:50] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 10:56:50,845 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:56:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-12 10:57:16,241 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:57:16] "GET / HTTP/1.1" 200 -
+2024-02-12 10:57:16,276 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:57:16] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 10:57:16,283 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:57:16] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 10:58:46,938 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:58:46] "GET / HTTP/1.1" 200 -
+2024-02-12 10:58:47,029 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:58:47] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 10:58:47,033 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:58:47] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 10:58:49,951 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:58:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-12 10:58:53,846 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 10:58:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 11:14:14,743 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 11:14:14,897 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.71:5001
+2024-02-12 11:14:14,897 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 11:14:19,048 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 11:14:19] "GET / HTTP/1.1" 200 -
+2024-02-12 11:14:19,093 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 11:14:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 11:14:19,103 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 11:14:19] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 11:19:01,909 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 11:19:02,124 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.71:5001
+2024-02-12 11:19:02,124 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 11:19:03,975 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 11:19:03] "GET / HTTP/1.1" 200 -
+2024-02-12 11:19:04,013 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 11:19:04] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 11:19:04,018 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 11:19:04] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 11:58:42,132 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 11:58:42,143 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.71:5001
+2024-02-12 11:58:42,143 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 12:03:40,179 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 12:03:40,195 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.71:5001
+2024-02-12 12:03:40,195 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 12:03:42,141 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:03:42] "GET / HTTP/1.1" 200 -
+2024-02-12 12:03:42,902 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:03:42] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 12:03:42,918 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:03:42] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 12:05:10,401 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 12:05:10,572 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.71:5001
+2024-02-12 12:05:10,573 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 12:05:13,433 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:05:13] "GET / HTTP/1.1" 200 -
+2024-02-12 12:05:13,552 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:05:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 12:05:13,565 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:05:13] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 12:05:28,059 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:05:28] "GET / HTTP/1.1" 200 -
+2024-02-12 12:05:28,119 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:05:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 12:05:28,122 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:05:28] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 12:05:35,262 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 12:05:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 14:29:00,723 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 14:29:00,871 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.202.71:5001
+2024-02-12 14:29:00,872 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 14:29:03,335 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 14:29:03] "GET / HTTP/1.1" 200 -
+2024-02-12 14:29:03,746 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 14:29:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 14:29:03,755 [INFO] _internal - _log: 192.168.202.71 - - [12/Feb/2024 14:29:03] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-12 20:08:04,124 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-12 20:08:04,153 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.220:5001
+2024-02-12 20:08:04,154 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-12 20:08:06,321 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 20:08:06] "GET / HTTP/1.1" 200 -
+2024-02-12 20:08:06,667 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 20:08:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-12 20:08:06,674 [INFO] _internal - _log: 192.168.1.220 - - [12/Feb/2024 20:08:06] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 12:48:14,018 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 12:48:37,644 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 12:48:50,647 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 12:48:50,681 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 12:48:50,682 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 12:48:52,722 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:48:52] "GET / HTTP/1.1" 200 -
+2024-02-13 12:48:53,125 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:48:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 12:48:53,140 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:48:53] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 12:48:53,310 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:48:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-13 12:50:51,151 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 12:50:51,179 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 12:50:51,180 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 12:50:53,228 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:50:53] "GET / HTTP/1.1" 200 -
+2024-02-13 12:50:53,288 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:50:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 12:50:53,300 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:50:53] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 12:50:55,039 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:50:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-13 12:51:24,535 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:51:24] "GET / HTTP/1.1" 200 -
+2024-02-13 12:51:24,574 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:51:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 12:51:24,586 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:51:24] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 12:51:33,057 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 12:51:33,106 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 12:51:33,106 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 12:51:36,017 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:51:36] "GET / HTTP/1.1" 200 -
+2024-02-13 12:51:36,224 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:51:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 12:51:36,261 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:51:36] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 12:51:39,156 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:51:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-13 12:51:55,679 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:51:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 12:55:45,638 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 12:55:45,676 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 12:55:45,677 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 12:55:56,236 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:55:56] "GET / HTTP/1.1" 200 -
+2024-02-13 12:55:56,411 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:55:56] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 12:55:56,419 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:55:56] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 12:55:59,370 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 12:55:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-13 13:03:18,554 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 13:03:18,596 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:03:18,596 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:03:24,689 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:03:24] "GET / HTTP/1.1" 200 -
+2024-02-13 13:03:24,884 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:03:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 13:03:24,895 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:03:24] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 13:03:53,473 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 13:03:53,515 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:03:53,515 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:03:55,895 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:03:55] "GET / HTTP/1.1" 200 -
+2024-02-13 13:03:55,955 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:03:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 13:03:55,959 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:03:55] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 13:05:38,640 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 13:05:38,668 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:05:38,668 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:05:40,933 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:05:40] "GET / HTTP/1.1" 200 -
+2024-02-13 13:05:41,032 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:05:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 13:05:41,065 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:05:41] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 13:08:58,203 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 13:08:58,237 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:08:58,237 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:09:03,339 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:09:03] "GET / HTTP/1.1" 200 -
+2024-02-13 13:09:03,526 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:09:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 13:09:03,528 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:09:03] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-02-13 13:09:06,352 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:09:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-13 13:16:00,197 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 13:16:00,236 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:16:00,236 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:16:02,424 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:16:02] "GET / HTTP/1.1" 200 -
+2024-02-13 13:16:02,500 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:16:02] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-02-13 13:16:43,370 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 13:16:43,394 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:16:43,394 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:16:46,397 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:16:46] "GET / HTTP/1.1" 200 -
+2024-02-13 13:21:20,283 [INFO] main - <module>: Starting the LegalContractBot web service...
+2024-02-13 13:21:20,366 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:21:20,367 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:21:30,966 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:21:30] "GET / HTTP/1.1" 200 -
+2024-02-13 13:22:49,899 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:22:49] "GET / HTTP/1.1" 200 -
+2024-02-13 13:31:36,597 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:31:36,597 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:31:39,519 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:31:39] "GET / HTTP/1.1" 200 -
+2024-02-13 13:31:48,961 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:31:48] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:32:11,182 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:32:11] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:32:11,379 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:32:11] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:32:26,941 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:32:26] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:32:30,879 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:32:30] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:32:56,222 [ERROR] main - process_input: Error processing request: ContractManager.generate_contract() missing 1 required positional argument: 'details'
+2024-02-13 13:32:56,224 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:32:56] "[35m[1mPOST /process_input HTTP/1.1[0m" 500 -
+2024-02-13 13:33:04,278 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:04] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:04,490 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:04] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:05,144 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:05] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:05,770 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:05] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:06,304 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:06] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:06,543 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:06] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:07,158 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:07] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:07,411 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:07] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:07,864 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:07] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:08,064 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:08] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:08,517 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:08] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:29,359 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:29] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:29,627 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:29] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:30,252 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:30] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:31,118 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:31] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:31,386 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:31] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:31,918 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:31] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:32,105 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:32] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:32,655 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:32] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:32,825 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:32] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:33,318 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:33] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:33:33,492 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:33:33] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:41:24,809 [INFO] _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.220:5002
+2024-02-13 13:41:24,809 [INFO] _internal - _log: [33mPress CTRL+C to quit[0m
+2024-02-13 13:41:27,530 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:41:27] "GET / HTTP/1.1" 200 -
+2024-02-13 13:41:33,070 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:41:33] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:41:33,841 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:41:33] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:41:38,788 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:41:38] "POST /process_input HTTP/1.1" 200 -
+2024-02-13 13:41:42,667 [INFO] _internal - _log: 127.0.0.1 - - [13/Feb/2024 13:41:42] "POST /process_input HTTP/1.1" 200 -
